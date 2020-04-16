@@ -1,0 +1,6 @@
+﻿  test.c
+C:\Users\a.kotelnikov\Documents\VS\24_read_arr3\24_read_arr3\24_read_arr3\test.c(31,13): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\a.kotelnikov\Documents\VS\24_read_arr3\24_read_arr3\24_read_arr3\test.c(31,13): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\a.kotelnikov\Documents\VS\24_read_arr3\24_read_arr3\24_read_arr3\test.c(31,13): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\a.kotelnikov\Documents\VS\24_read_arr3\24_read_arr3\24_read_arr3\test.c(31,13): message : this argument is used as a buffer size
+  24_read_arr3.vcxproj -> C:\Users\a.kotelnikov\Documents\VS\24_read_arr3\24_read_arr3\Debug\24_read_arr3.exe
